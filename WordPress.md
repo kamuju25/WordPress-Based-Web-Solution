@@ -467,4 +467,4 @@ http://<Web-Server-Public-IP>/wordpress
 ```
 This will launch the WordPress setup page where you can complete the installation.
 
-![alt text](/images/Screenshot%202026-03-12%20001745.png)
+![alt text](/images/Screenshot%202026-03-12%20004750.png)
