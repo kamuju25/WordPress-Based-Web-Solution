@@ -303,7 +303,7 @@ The output should show wordpress-lv mounted on /var/www/html and wp-logs-lv moun
 
 ## `Step - 2`
 
-Launch an RHEL-10 EC2 instance that will function as the Web Server. While creating the instance, also create three additional EBS volumes, each with a size of 10 GiB, making sure they are created in the same Availability Zone (AZ) as the EC2 instance.
+Launch a RHEL-10 EC2 instance that will function as the DataBase Server. While creating the instance, also create three additional EBS volumes, each with a size of 10 GiB, making sure they are created in the same Availability Zone (AZ) as the EC2 instance.
 
 ## Install MySQL (MariaDB) on the Database Server EC2 Instance
 
